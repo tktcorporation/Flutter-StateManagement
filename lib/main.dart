@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:stateManagement/app/riverpod.dart';
-import 'package:stateManagement/app/storyboard.dart';
+import 'package:state_management/app/riverpod.dart';
+import 'package:state_management/app/storyboard.dart';
 import 'package:storyboard/storyboard.dart';
 
 void main() {

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-typedef void IncrementCallback();
+typedef void Increment();
 
 class IncrementButton extends StatelessWidget {
   const IncrementButton(this._increment);
 
-  final IncrementCallback _increment;
+  final Increment _increment;
 
   @override
   Widget build(BuildContext context) {

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:stateManagement/component/molecule/count-text.dart';
-import 'package:stateManagement/component/molecule/increment-button.dart';
-import 'package:stateManagement/controller/counterController.dart';
-import 'package:stateManagement/domain/counter.dart';
+import 'package:state_management/component/molecule/count_text.dart';
+import 'package:state_management/component/molecule/increment_button.dart';
+import 'package:state_management/controller/counter_controller.dart';
+import 'package:state_management/domain/counter.dart';
 
 class CounterPage extends StatelessWidget {
   CounterPage(this._title);

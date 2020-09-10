@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:stateManagement/component/template/battle/counter.dart';
+import 'package:state_management/component/template/counter/counter.dart';
 
 class RiverpodApp extends StatelessWidget {
   // This widget is the root of your application.
