@@ -29,7 +29,6 @@ dependencies:
   cupertino_icons: ^0.1.3
 
   storyboard:
-  provider:
   flutter_riverpod:
 
 dev_dependencies:
