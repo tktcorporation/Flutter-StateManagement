@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:janken/component/molecule/increment-button.dart';
+import 'package:stateManagement/component/molecule/increment-button.dart';
 import 'package:storyboard/storyboard.dart';
 
 class ButtonsListStory extends Story {

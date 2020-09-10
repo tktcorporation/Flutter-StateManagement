@@ -1,4 +1,4 @@
-# janken
+# stateManagement
 
 A new Flutter project.
 

@@ -1,4 +1,4 @@
-package com.example.janken
+package com.example.stateManagement
 
 import io.flutter.embedding.android.FlutterActivity
 

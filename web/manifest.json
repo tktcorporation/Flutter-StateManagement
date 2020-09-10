@@ -1,6 +1,6 @@
 {
-    "name": "janken",
-    "short_name": "janken",
+    "name": "stateManagement",
+    "short_name": "stateManagement",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

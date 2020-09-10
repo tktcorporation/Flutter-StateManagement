@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:janken/app/janken.dart';
-import 'package:janken/app/storyboard.dart';
+import 'package:stateManagement/app/home.dart';
+import 'package:stateManagement/app/storyboard.dart';
 import 'package:storyboard/storyboard.dart';
 
 void main() {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:janken/domain/counter.dart';
+import 'package:stateManagement/domain/counter.dart';
 
 class CounterController extends ChangeNotifier {
   CounterController(Counter counter) : this._counter = counter;

@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:janken/component/molecule/count-text.dart';
-import 'package:janken/component/molecule/increment-button.dart';
-import 'package:janken/controller/counterController.dart';
-import 'package:janken/domain/counter.dart';
+import 'package:stateManagement/component/molecule/count-text.dart';
+import 'package:stateManagement/component/molecule/increment-button.dart';
+import 'package:stateManagement/controller/counterController.dart';
+import 'package:stateManagement/domain/counter.dart';
 
-class BattlePage extends StatelessWidget {
-  BattlePage(this._title);
+class CounterPage extends StatelessWidget {
+  CounterPage(this._title);
   final String _title;
   final counterProvider = ChangeNotifierProvider<CounterController>(
       (_) => CounterController(Counter()));
